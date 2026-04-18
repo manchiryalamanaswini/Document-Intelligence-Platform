@@ -119,15 +119,17 @@ Recommendations: Romeo and Juliet
 
 ## 📸 Screenshots
 
-(Add screenshots like below)
+### 📚 Books API
+![Books](screenshots/books.png)
 
-```
-screenshots/books.png
-screenshots/upload.png
-screenshots/ask.png
-screenshots/recommend.png
-```
+### 📤 Upload API
+![Upload](screenshots/upload.png)
 
+### 🤖 Q&A (RAG)
+![Ask](screenshots/ask.png)
+
+### 🔁 Recommendation
+![Recommend](screenshots/recommend.png)
 ---
 
 ## 📌 Notes
